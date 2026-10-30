@@ -4,3 +4,9 @@ __pycache__/
 
 # MyST build outputs
 _build
+
+.DS_Store
+
+# make sure Labs aren't included
+Lab*.ipynb
+lab*.ipynb
